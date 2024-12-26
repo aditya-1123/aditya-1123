@@ -8,7 +8,7 @@
 <h1 align="center">Hello 👋, I'm Aditya Gaikwad</h1>
 <h3 align="center">A dedicated web developer crafting seamless digital experiences</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-1123&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-1123&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-1123" /> </p>
 
 <!--
 **aditya-1123/aditya-1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
