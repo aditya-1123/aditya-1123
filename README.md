@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-1123&color=blue)
 
 <!--
 **aditya-1123/aditya-1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
