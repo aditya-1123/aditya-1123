@@ -1,4 +1,6 @@
-## Hi 👋, I'm Aditya Gaikwad
+<h1 align="center">Hello 👋, I'm Aditya Gaikwad</h1>
+<h3 align="center">A dedicated web developer crafting seamless digital experiences</h3>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-1123&color=blue)
 
 <!--
