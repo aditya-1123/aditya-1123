@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, I'm Aditya Gaikwad</h1>
 <h3 align="center">A dedicated web developer crafting seamless digital experiences</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-1123/aditya-1123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-1123/aditya-1123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aditya-1123/aditya-1123/output/github-contribution-grid-snake.svg" width=100%>
+</picture>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-1123&color=blue)
 
 <!--
