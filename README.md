@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🌐 Connect with me:</h2>
 <a href="https://aditya-1123.github.io/Aditya-s-Portfolio/">
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linkedin,instagram,twitter&theme=dark&perline=15" alt="Connect with me">
@@ -36,35 +36,35 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="left">Languages:</h2>
+<h2 align="left">🖥️ Languages:</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css&theme=dark&perline=15" alt="Languages">
 </p>
 
 ---
 
-<h2 align="left">Frameworks and Libraries:</h2>
+<h2 align="left">📚 Frameworks and Libraries:</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,nodejs,expressjs,bootstrap&theme=dark&perline=15" alt="Frameworks and Libraries">
 </p>
 
 ---
 
-<h2 align="left">Tools:</h2>
+<h2 align="left">🛠️ Tools:</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm&theme=dark&perline=15" alt="Tools">
 </p>
 
 ---
 
-<h2 align="left">Databases:</h2>
+<h2 align="left">💾 Databases:</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=15" alt="Databases">
 </p>
 
 ---
 
-<h2 align="left">Technologies:</h2>
+<h2 align="left">🚀 Technologies:</h2>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=api,aws,&titles=true" alt="Technologies">  
 </p>
