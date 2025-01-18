@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 
 ---
   
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-1123" alt="Aditya's Streak Stats" width="49%" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-1123&show_icons=true&locale=en&layout=compact" alt="aditya-1123" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-1123&show_icons=true&locale=en&layout=compact" alt="aditya-1123" /></p>
