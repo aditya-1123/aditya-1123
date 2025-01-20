@@ -70,8 +70,18 @@ Here are some ideas to get you started:
 </p>
 
 ---
-  
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-1123" alt="Aditya's Streak Stats" width="49%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-1123&show_icons=true&locale=en&layout=compact" alt="aditya-1123" />
+</p>   
+
+<!-- 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-1123" alt="Aditya's Streak Stats" style="width: 49%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-1123&show_icons=true&locale=en&layout=compact" alt="Aditya's Top Languages" style="width: 49%;" />
 </div>
+-->
