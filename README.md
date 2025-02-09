@@ -15,10 +15,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... -
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Python , Django, Nodejs** 
 - 📫 How to reach me: gaikwadaditya1123@gmail.com
 <!--
